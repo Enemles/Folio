@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Cosi';
+  src: url("../static/Fonts/Cozi/CosiAzure-BlackStencil.woff2") format("woff2"), url("../static/Fonts/Cozi/CosiAzure-BlackStencil.woff") format("woff"), url("../static/Fonts/Cozi/CosiAzure-BlackStencil.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue';
+  src: url("../static/Fonts/Neue/NHaasGroteskTXPro-55Rg.eot");
+  src: url("../static/Fonts/Neue/NHaasGroteskTXPro-55Rg.eot?#iefix") format("embedded-opentype"), url("../static/Fonts/Neue/NHaasGroteskTXPro-55Rg.woff2") format("woff2"), url("../static/Fonts/Neue/NHaasGroteskTXPro-55Rg.woff") format("woff"), url("../static/Fonts/Neue/NHaasGroteskTXPro-55Rg.ttf") format("truetype"), url("../static/Fonts/Neue/NHaasGroteskTXPro-55Rg.svg#NHaasGroteskTXPro-55Rg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'areminiscent';
+  src: url("../static/Fonts/aremniscent/areminiscentsmile-Regular.eot");
+  src: url("../static/Fonts/aremniscent/areminiscentsmile-Regular.eot?#iefix") format("embedded-opentype"), url("../static/Fonts/aremniscent/areminiscentsmile-Regular.woff2") format("woff2"), url("../static/Fonts/aremniscent/areminiscentsmile-Regular.woff") format("woff"), url("../static/Fonts/aremniscent/areminiscentsmile-Regular.ttf") format("truetype"), url("../static/Fonts/aremniscent/areminiscentsmile-Regular.svg#areminiscentsmile-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/**
+Colors
+*/
+/*# sourceMappingURL=style.css.map */

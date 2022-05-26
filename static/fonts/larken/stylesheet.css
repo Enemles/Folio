@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Larken';
+    src: url('Larken-Light.eot');
+    src: url('Larken-Light.eot?#iefix') format('embedded-opentype'),
+        url('Larken-Light.woff2') format('woff2'),
+        url('Larken-Light.woff') format('woff'),
+        url('Larken-Light.ttf') format('truetype'),
+        url('Larken-Light.svg#Larken-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Larken';
+    src: url('Larken-Regular.eot');
+    src: url('Larken-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Larken-Regular.woff2') format('woff2'),
+        url('Larken-Regular.woff') format('woff'),
+        url('Larken-Regular.ttf') format('truetype'),
+        url('Larken-Regular.svg#Larken-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Larken';
+    src: url('Larken-Bold.eot');
+    src: url('Larken-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Larken-Bold.woff2') format('woff2'),
+        url('Larken-Bold.woff') format('woff'),
+        url('Larken-Bold.ttf') format('truetype'),
+        url('Larken-Bold.svg#Larken-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Larken';
+    src: url('Larken-BlackItalic.eot');
+    src: url('Larken-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('Larken-BlackItalic.woff2') format('woff2'),
+        url('Larken-BlackItalic.woff') format('woff'),
+        url('Larken-BlackItalic.ttf') format('truetype'),
+        url('Larken-BlackItalic.svg#Larken-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
